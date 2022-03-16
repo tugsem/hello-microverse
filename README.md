@@ -1,30 +1,17 @@
-Hello Microverse
-A basic HTML & CSS project built with Lighthouse, WebHint and Stylelint for the purpose of understanding these tools and get familiar with them at the later projects. 
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Built With
-HTML,
-CSS,
-Node
+# Hello Microverse
 
-Getting Started
-Please do the following to setup project locally
+> A basic HTML & CSS project built with Lighthouse, WebHint and Stylelint for the purpose of understanding these tools and get familiar with them at the later projects.
 
-Prerequisites
-node.js version ^12.*
+## Built With
 
-Install
-Copy this repository into your computer[https://github.com/tugsem/hello-microverse.git] 
-On the command line, navigate to the directory of the project.
-Run the following command:
-   npm install
+- HTML, CSS, Node
 
-Run tests
- Run the tests inside [.github/workflows/linters.yml] in your terminal.  
+## Authors
 
-Authors
-👤 Author1
+👤 **Author1**
 
-GitHub: @tugsem
-Twitter: @TugsemSaranli
-LinkedIn: Tugsem Saranli
-
+- GitHub: [@tugsem]
+- Twitter: [@TugsemSaranli]
+- LinkedIn: [Tugsem Saranli]
